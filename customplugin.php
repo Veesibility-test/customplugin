@@ -6,7 +6,3 @@
  * Author:           Veesibility
  * GitHub Plugin URI: https://github.com/Veesibility-test/customplugin
  */
-add_action( 'ava_after_main_menu', 'vee_secondary_header' );
-  function vee_secondary_header() {	
-    echo 'test';
-  }
